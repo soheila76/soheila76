@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 👋 Hi, I’m @soheila76<br>- 👀 I’m interested in web-related technologies<br>- 🌱 I’m currently learning back-end developing(Django)<br>- 💞️ I’m looking to collaborate on variety of web-based projects<br>- 📫 Reach me on soheila.pouldrive1@gmail.com
+- 👋 Hi, I’m @soheila76<br>- 👀 I’m interested in web-related technologies<br>- 🌱 I’m currently learning back-end developing(Django)<br>- 💞️ I’m looking to collaborate on variety of web-based projects<br>- 📫 Reach me on ramezanzadeh.soheila76@gmail.com
 
 
 ## 🌐 Socials:
